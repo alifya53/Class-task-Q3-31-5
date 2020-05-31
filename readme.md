@@ -16,6 +16,7 @@ use rocket::response::NamedFile;
 
 Now creat a folder in main Name Static
 
-now create html file name index.html and create a form in html with one input feild and submit button and form action = "/" and method ="post"
+now create html file name index.html and 
+create a form in html with one input feild and submit button and form action = "/" and method ="post"
 
 Now , Run the code ! Happy Coding...!!!
